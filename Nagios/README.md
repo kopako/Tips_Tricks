@@ -1,8 +1,7 @@
 date 06.02.2018
 
 # NagiosCore
-or
-###### Where did I suck
+or "Where did I suck"
 
 **"How to install the instance"** is well described by official [manuals](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/quickstart.html).
 
