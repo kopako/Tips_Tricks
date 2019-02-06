@@ -1,19 +1,4 @@
 date 06.02.2018
-<head>
-<style type="text/css">
-    .SectionHeader  { font-family: verdana,arial,serif; font-size: 10pt; font-weight: bold; background-color: #cbcbcb; }
-    .SectionTitle  { font-family: verdana,arial,serif; font-size: 8pt; font-weight: bold; text-decoration: underline; }
-    .Definition { font-family: verdana,arial,serif; font-size: 7pt; text-align: left;  color: #3333cc;}
-    .Required { font-family: verdana,arial,serif; font-size: 7pt; text-align: left; color: red; }
-    .Optional { font-family: verdana,arial,serif; font-size: 7pt; text-align: left; }
-    .RetentionNotes { font-family: verdana,rial,serif; font-size: 10pt; text-align: left; color: red; font-weight: bold; }
-    #sidebar {
-        float: right;
-        width: 400px;
-        margin: 0 0 3rem 3rem;
-    }
-    </style>
-</head>
 
 # NagiosCore
 or
