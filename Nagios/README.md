@@ -20,4 +20,4 @@ Those are what they say required fields:
 <tr><td class="Definition">}&nbsp;&nbsp;&nbsp;&nbsp;</td><td colspan=2></td></tr>
 </table>
 
-Useful [script](https://github.com/kopako/Tips_Tricks/Nagios/checkNagiosCfg.sh) to check up if your edited .cfg files are ok.
+Useful [script](https://github.com/kopako/Tips_Tricks/blob/master/Nagios/checkNagiosCfg.sh) to check up if your edited .cfg files are ok.
